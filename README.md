@@ -70,7 +70,7 @@ npm run start
 
 演示视频:
 
-![](EIP712demo.mp4)
+![]([EIP712Example/EIP712demo.mp4 at main · 9olidity/EIP712Example (github.com)](https://github.com/9olidity/EIP712Example/blob/main/EIP712demo.mp4)
 
 
 
